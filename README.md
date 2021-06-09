@@ -2,11 +2,9 @@
  
 - 👀 I’m interested in Web Developing & Designing
 
-- 💻 I’m currently learning Java Language
+- 💬 Ask me about Html,Css,PHP,JavaScript,Wordpress,Bootstrap
 
-- 💬 Ask me about PHP,Wordpress,Bootstrap,Java
-
-- 📫 How to reach me : bhagyashreesonavane18@gmail.com
+- 📫 How to reach me : b18shinde@gmail.com
 
 <h3 align="center">Web Deveploer From Maharashtra</h3>
 
